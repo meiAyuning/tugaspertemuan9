@@ -1,0 +1,12 @@
+{
+    "indonesia":[
+        {"icon":"home-outline","text":"Beranda"},
+        {"icon":"book-outline","text":"Blog"},
+        {"icon":"person-outline","text":"Tentang"}
+    ],
+    "english":[
+        {"icon":"home-outline","text":"Home"},
+        {"icon":"book-outline","text":"Blogs"},
+        {"icon":"person-outline","text":"About"}
+    ]
+}
